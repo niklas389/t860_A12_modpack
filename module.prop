@@ -1,7 +1,7 @@
 id=n389_t860_a12
 name=ModPack for OneUI
 version=v1.3.0
-versionCode=10100
+versionCode=10300
 author=niklas389
 description=Removes Bloat.
-updateJson=https://raw.githubusercontent.com/niklas389/lemonkebab_Nameless_A13/master/update.json
+updateJson=https://raw.githubusercontent.com/niklas389/t860_A12_modpack/master/update.json
