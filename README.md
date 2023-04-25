@@ -1,4 +1,4 @@
-# Modpack for Samsung OneUI 4
+# For Samsung OneUI 4
 
 [> Download <](https://github.com/niklas389/)
 
